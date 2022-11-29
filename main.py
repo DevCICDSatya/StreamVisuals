@@ -3,7 +3,6 @@ import numpy as np
 import altair as alt
 import streamlit as st
 import os
-os.system('!pip3 install plotly-express')
 import plotly.express as px
 import plotly.graph_objects as go
 
